@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\bin\Debug\net6.0\BusinessLogicLibrary.deps.json
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\bin\Debug\net6.0\BusinessLogicLibrary.dll
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\bin\Debug\net6.0\BusinessLogicLibrary.pdb
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\obj\Debug\net6.0\BusinessLogicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\obj\Debug\net6.0\BusinessLogicLibrary.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\obj\Debug\net6.0\BusinessLogicLibrary.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\obj\Debug\net6.0\BusinessLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\obj\Debug\net6.0\BusinessLogicLibrary.dll
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\obj\Debug\net6.0\refint\BusinessLogicLibrary.dll
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\obj\Debug\net6.0\BusinessLogicLibrary.pdb
+C:\Users\CDAC\Desktop\Shivanjali\DisconnectedDemo\BusinessLogicLibrary\obj\Debug\net6.0\ref\BusinessLogicLibrary.dll
