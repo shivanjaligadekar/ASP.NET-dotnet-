@@ -1,0 +1,18 @@
+﻿using IEnumerable<StateManagementDemo.Models.UserViewModel>;
+
+<h1> @ViewBag.userame</h1>
+<hr/>
+<ul>
+    @foreach (var item in ViewBag.usersData)
+    {
+        <li>@item.UserName | @item.Password</li>
+    }
+</ul>
+<hr />
+<h1>@ViewData["newname"]</h1>
+<ul>
+        @foreach (UsersViewModels item in (List < UsersViewModels >) ViewData["newUserList"])
+        {
+        <li>@item.UserName | @item.Password</li>
+        }
+</ul>
